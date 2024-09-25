@@ -2,7 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=B5D5EA&height=200&section=header&text=ssojeongg's%20Github&fontColor=ffffff&fontSize=50)
   <h2>Introduction🖐🏻</h2>
-  <p>안녕하세요! FRONT-END 개발자를 희망하는 박소정입니다.</p>
+  <p>안녕하세요! 웹 퍼블리셔를 희망하는 박소정입니다.</p>
 <h2>USED Tools & Skill⚡</h2>
 <div style="display: flex; align-items: flex-start; justify-content: center;">
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
