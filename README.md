@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=B5D5EA&height=200&section=header&text=ssojeongg&fontColor=ffffff&fontSize=50)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=B5D5EA&height=200&section=header&text=ssojeongg&'s%20Github&fontColor=ffffff&fontSize=50)
   <h2>Introduction🖐🏻</h2>
   <p>안녕하세요! 웹 퍼블리셔를 희망하는 박소정입니다.</p>
 <h2>USED Tools & Skill⚡</h2>
