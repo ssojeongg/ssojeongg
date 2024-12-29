@@ -1,15 +1,16 @@
-<div align="center">
+<div>
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=B5D5EA&height=200&section=header&text=ssojeongg's%20Github&fontColor=ffffff&fontSize=50)
   <h2>Introduction🖐🏻</h2>
-  <p>안녕하세요! 프론트엔드 개발자를 희망하는 박소정입니다.</p>
-<h2>USED Tools & Skill⚡</h2>
-<div style="display: flex; align-items: flex-start; justify-content: center;">
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/vue.js-20232a.svg?style=for-the-badge&logo=vue.js&logoColor=#4FC08D" />&nbsp
+  <p>커뮤니케이션을 중요시하는 FE개발자</p>
+  <h2>Study Activity📖</h2>
+<div>
+  <h3>공룡과 함께 하는 딥다이브 스터디<h3>
+  <ul>
+    <li>기간: 2024.12.25 ~ ing</li>
+    <li>인원: 2명</li>
+    <li>기록: https://www.notion.so/16689e165d9a80498702e5e39050e988?pvs=4</li>
+  </ul>
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=B5D5EA)
