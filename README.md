@@ -7,9 +7,9 @@
 <div align="left">
   <h2>Study Activity📖</h2>
   <h4>공룡과 함께 하는 딥다이브 스터디<h4>
-      <p>-기간: 2024.12.25 ~ ing</p>
-      <p>-인원: 2명</p>
-      <p>-기록: <a href="https://www.notion.so/16689e165d9a80498702e5e39050e988?pvs=4">모던 자바스크립트 Deep Dive 스터디 기록</a></p>
+      <p>- 기간: 2024.12.25 ~ ing</p>
+      <p>- 인원: 2명</p>
+      <p>- 기록: <a href="https://www.notion.so/16689e165d9a80498702e5e39050e988?pvs=4">모던 자바스크립트 Deep Dive 스터디 기록</a></p>
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=B5D5EA)
