@@ -5,7 +5,7 @@
      <td>
        <img width="200px" height="300px" src="https://github.com/user-attachments/assets/a303d2e4-3aa6-491d-a658-02ec970f7f9f" />
      </td>
-     <td width="800px">
+     <td width="600px">
        <h3>Project⚡</h3>
        <ul>
          <li>
