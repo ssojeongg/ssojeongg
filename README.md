@@ -28,7 +28,7 @@
        <ul>
          <li>
            <b><a href="#">자바초보단 스터디</a></b>  
-           <sub>(25.08.21 ~ 25.09.23)</sub>
+           <sub>(25.08 ~ 25.09)</sub>
            <ul>
              <li>Java 기초 + SpringBoot CRUD 게시판 구현</li>
            </ul>
