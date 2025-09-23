@@ -27,7 +27,7 @@
        <h3>Study📖</h3>
        <ul>
          <li>
-           <b><a href="#">자바초보단 스터디</a></b>  
+           <b><a href="https://www.notion.so/a-CRUD-2577c695cc1e8060883cf2edcd408602?source=copy_link">자바초보단 스터디</a></b>  
            <sub>(25.08 ~ 25.09)</sub>
            <ul>
              <li>Java 기초 + SpringBoot CRUD 게시판 구현</li>
