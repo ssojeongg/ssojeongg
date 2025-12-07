@@ -9,21 +9,13 @@
        <h3>Project⚡</h3>
        <ul>
         <li>
-           <b><a href="#">재고 관리 서비스</a></b>   
-           <sub>(25.11 ~ )</sub>
+           <b><a href="https://github.com/Jachodan">재고 관리 서비스</a></b>   
+           <sub>(25.12 ~ )</sub>
            <ul>
-             <li>SpringBoot 팀 프로젝트</li>
+             <li>Spring & Next 팀 프로젝트</li>
            </ul>
          </li>
         <br />
-         <li>
-           <b><a href="#">병원 예약시스템</a></b>   
-           <sub>(25.11 ~ )</sub>
-           <ul>
-             <li>SpringBoot 개인 프로젝트</li>
-           </ul>
-         </li>
-         <br/>
          <li>
            <b><a href="https://dunsanflower.vercel.app/">대전꽃배달 둔산플라워</a></b>  
            <sub>(25.05 ~ 25.06)</sub>
